@@ -1,0 +1,4 @@
+# ROS2 build artifacts
+code/ros2_ws/build/
+code/ros2_ws/install/
+code/ros2_ws/log/
