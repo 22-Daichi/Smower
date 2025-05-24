@@ -1,0 +1,3 @@
+[submodule "Smower_ROS2"]
+	path = code/ros2_ws/src/Smower_ROS2
+	url = git@github.com:22-Daichi/Smower_ROS2.git
